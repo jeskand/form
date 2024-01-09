@@ -1,0 +1,29 @@
+form {
+    color: blue;
+      border: 3px solid #314570;;
+      background-color: lightblue;
+      height: 700px;
+      padding: 40px 20px;
+      width: 400px;
+      margin: 30px 400px;
+      font-size: 18px;
+      border-radius: 5px;
+  }
+  
+  input[type=password], input[type=email], input[type=text], input[type=tel], input[type=date] {
+      display: block;
+      
+  }
+  
+  #submit {
+      cursor: pointer;
+      background-color: blue;
+      color: white;
+      border-radius: 5px;
+  }
+  
+  
+  label {
+    color: blue;
+  }
+  
